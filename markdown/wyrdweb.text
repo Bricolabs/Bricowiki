@@ -1,0 +1,131 @@
+% WyrdWeb - Bricowiki
+% 
+% 
+
+# WyrdWeb
+
+### From Bricowiki
+
+Jump to: [navigation](#column-one), [search](#searchInput)
+## Contents
+
+-   [1 WyrdWeb vision](#WyrdWeb_vision)
+-   [2 Guiding principles and values](#Guiding_principles_and_values)
+-   [3 WyrdWeb mission](#WyrdWeb_mission)
+-   [4 WyrdWeb slogan](#WyrdWeb_slogan)
+-   [5 Current operations](#Current_operations)
+    -   [5.1 Resources](#Resources)
+    -   [5.2 Creative users and communities](#Creative_users_and_communities)
+    -   [5.3 Social networking](#Social_networking)
+    -   [5.4 Active Wyrdweb builders](#Active_Wyrdweb_builders)
+
+-   [6 Future](#Future)
+    -   [6.1 Security](#Security)
+    -   [6.2 More people](#More_people)
+
+
+## WyrdWeb vision
+
+WyrdWeb was founded in 2005 by Graham Oakes, Willem van den Ende
+and Nynke Etk Fokma with a vision to grow Wyrdweb into a network of
+creative businesses and communities around the world, that are
+alive and connected in in(ter)dependent networks, featuring our
+respective congruent passions and dreams. A fun and enjoyable
+virtual
+[open space](http://www.openspaceworld.org/ "http://www.openspaceworld.org/")
+where creative people like ourselves can learn from one another and
+showcase their products and services for congruent sustainable
+living, and people can create an agenda of issues to work on
+together.
+
+## Guiding principles and values
+
+[![Image:Essentials2.png](essentials2.png)](image_essentials2.html "Image:Essentials2.png")
+
+-   [We despise interest](http://www.gmlets.u-net.com/ "http://www.gmlets.u-net.com/")
+-   [Agile manifesto](http://agilemanifesto.org/ "http://agilemanifesto.org/")
+
+## WyrdWeb mission
+
+To support creative people running and maintaining their own sites
+and communities with confidence. Whether we guide, consult, coach,
+or build together with people, we wish to put ourselves out of a
+job, as soon as humanely possible. We don't take hostages.
+
+## WyrdWeb slogan
+
+It's all about communication, the rest is open source software!
+
+## Current operations
+
+### Resources
+
+We run three servers in Germany with Debian GNU/Linux. One is our
+spike server where we experiment, develop and support community
+sites, the other is our stable server where we serve small creative
+businesses, including our own. Most of the software (all open
+source) we work with is MySQL, PHP and Javascript based, and on the
+spike server we experiment with other, less mature, yet for the
+future possibly interesting new languages and softwarez.
+
+### Creative users and communities
+
+Our users/community members are
+[creative and innovative businesses and communities](http://www.wyrdweb.eu/about-us/mission/users/ "http://www.wyrdweb.eu/about-us/mission/users/")
+with a passion for their own products and services.
+
+### Social networking
+
+We weave in a lot of that, and actively participate in communities
+to figure out resonance and how to support freedom and creativity
+better. We may not believe (exactly) what others believe in, and we
+don't have to in order to support a user/community purpose, as long
+as what we believe in is respected too. Example:
+[Turning tides](http://satirnetwork.ning.com/profiles/blog/show?id=2249466:BlogPost:506/ "http://satirnetwork.ning.com/profiles/blog/show?id=2249466%3ABlogPost%3A506/").
+
+Listing all social networks where we are active seems silly so we
+just mention three of the ning social networking sites where we
+have posted the Weaver Bird document:
+
+-   [Mystical Temple Coven](http://mysticaltemplecoven.ning.com/xn/detail/2083447:Topic:3972 "http://mysticaltemplecoven.ning.com/xn/detail/2083447:Topic:3972")
+-   [My Revolution Space](http://myrevolutionspace.ning.com/profiles/blog/show?id=2215351:BlogPost:749 "http://myrevolutionspace.ning.com/profiles/blog/show?id=2215351%3ABlogPost%3A749")
+-   [Satir Network](http://satirnetwork.ning.com/profiles/blog/show?id=2249466:BlogPost:105/ "http://satirnetwork.ning.com/profiles/blog/show?id=2249466%3ABlogPost%3A105/")
+
+### Active Wyrdweb builders
+
+Anjez\*, Graham, Hans, Ira, Marc, Nynke, Pat, Ushie, and Willem.
+
+## Future
+
+This is the
+[Wyrdweb site](http://www.wyrdweb.eu/ "http://www.wyrdweb.eu/")
+that, over the years, became somewhat cluttered. We are currently
+getting a new server and refactoring our wyrd selves to be more
+lean, and working on a very focused
+[new wyrdweb site](http://drupal6.spike.wyrdweb.eu/ "http://drupal6.spike.wyrdweb.eu/")
+to reflect that.
+
+### Security
+
+Nynke has discerned some
+[web 2.0 issues](http://www.wyrdweb.eu/web-20-security-issues/ "http://www.wyrdweb.eu/web-20-security-issues/")
+in general that she intends (wants to) to work on. And selfcare
+comes first. She also has to pay her bills. :-)
+
+### More people
+
+The active Wyrdweb builders are nearly all independents, and we do
+this next to our work. We are overloaded and behind on upgrading
+and updating of our stable server and softwares used, and on social
+networking.
+[If you wish to join us and help out, let us know!](http://drupal6.spike.wyrdweb.eu/contact/ "http://drupal6.spike.wyrdweb.eu/contact/")
+
+Retrieved from "[http://wiki.bricolabs.net/index.php/WyrdWeb]()"
+-   This page was last modified 11:26, 1 December 2008.
+-   This page has been accessed 4,958 times.
+-   [Privacy policy](bricowiki_privacy_policy.html "Bricowiki:Privacy policy")
+-   [About Bricowiki](bricowiki_about.html "Bricowiki:About")
+-   [Disclaimers](bricowiki_general_disclaimer.html "Bricowiki:General disclaimer")
+
+
+

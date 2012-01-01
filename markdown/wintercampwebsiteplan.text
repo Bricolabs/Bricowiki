@@ -1,0 +1,103 @@
+% WinterCampWebsitePlan - Bricowiki
+% 
+% 
+
+# WinterCampWebsitePlan
+
+### From Bricowiki
+
+Jump to: [navigation](#column-one), [search](#searchInput)
+Refactoring the website
+
+## Contents
+
+-   [1 FF suggestion](#FF_suggestion)
+    -   [1.1 Special help is needed for:](#Special_help_is_needed_for:)
+    -   [1.2 Possible architecture](#Possible_architecture)
+
+-   [2 Kruno's addition to FF suggestion](#Kruno.27s_addition_to_FF_suggestion)
+-   [3 Phil's suggestion](#Phil.27s_suggestion)
+
+## FF suggestion
+
+-   Start it over with drupal (my personal choice, and with which I
+    would know how to do the following)
+-   Import all current content as pages
+-   New resources:
+    -   User profiles - every member gets to describe herself
+    -   Project/node/lab pages - every member gets to describe her
+        project/lab/space/network in a proper, wiki-like page ---\>
+        collective, self-managed project portfolio
+    -   Feed engine - every member can add feeds related to the
+        bricolabs network (for instance, project weblogs, specific tags on
+        delicious, flickr, youtube, etc.)
+
+
+### Special help is needed for:
+
+-   information architecture
+-   interface design
+
+### Possible architecture
+
+-   Homepage: short description + block with aggregated feeds +
+    online infrastructure descriptions (mailing list, irc, wiki, etc)
+    -   Reference
+        -   Homebrew
+        -   Paragraphs
+        -   Politics --- a depository of Brico-data, theory,
+        -   Protocols
+        -   Networking
+        -   Operating systems
+        -   Artisans --- Edu artisans, demystification of technology, best
+            practices
+        -   Presentations / events - futuresonic, mainsdoeuvres, brasil,
+            hosc, goodbye privacy
+
+
+-   People (user profiles)
+-   Projects (project pages)
+-   Feed aggregator (full version)
+
+
+
+## Kruno's addition to FF suggestion
+
+'project/lab/space/network in a proper, wiki-like page ---\>
+collective, self-managed project portfolio' to be created as a
+syndicated RSS feeds instead of creating another WIKI page for each
+of the participant/project/...
+
+to illustrate (this is a graph, not a design suggestion concerning
+colors, sizes, font type, etc. Done in inkscape - feel free to add,
+change):
+
+[Inkscape file to download and adjust when needed](http://sound.labaratoriya.com/bricolabs/prijedlogBricosajt.svg "http://sound.labaratoriya.com/bricolabs/prijedlogBricosajt.svg")
+
+**suggestions**- advocating services/archives such as: archive.org,
+estudiolivre.org, maybe vimeo and other similar for difference of
+youtube, delicious, etc; using png, using ogg, using open source
+font type, giving basic explanation why use VLC (etc) - lets call
+it 'for first-comers' (?)
+
+## Phil's suggestion
+
+As Bricophone is a network of networks, the project page should be
+a network of projects with links to all of the participants/members
+of bricolabs to promote and show projects in the bricolabs
+community such as:
+
+-   [http://projects.dorkbot.org/dorkbot-wiki/DorkbotMdeWiki/unloquer/alejo](http://projects.dorkbot.org/dorkbot-wiki/DorkbotMdeWiki/unloquer/alejo "http://projects.dorkbot.org/dorkbot-wiki/DorkbotMdeWiki/unloquer/alejo")
+-   [http://www.tmplab.org/2008/06/18/consumer-b-gone/](http://www.tmplab.org/2008/06/18/consumer-b-gone/ "http://www.tmplab.org/2008/06/18/consumer-b-gone/")
+-   [http://babelfish.yahoo.com/translate\_url?doit=done&tt=url&intl=1&fr=bf-home&trurl=http%3A%2F%2Fprojects.dorkbot.org%2Fdorkbot-wiki%2FDorkbotMdeWiki%2Funloquer&lp=es\_en&btnTrUrl=Translate](http://babelfish.yahoo.com/translate_url?doit=done&tt=url&intl=1&fr=bf-home&trurl=http://projects.dorkbot.org/dorkbot-wiki/DorkbotMdeWiki/unloquer&lp=es_en&btnTrUrl=Translate "http://babelfish.yahoo.com/translate_url?doit=done&tt=url&intl=1&fr=bf-home&trurl=http%3A%2F%2Fprojects.dorkbot.org%2Fdorkbot-wiki%2FDorkbotMdeWiki%2Funloquer&lp=es_en&btnTrUrl=Translate")
+
+Retrieved from
+"[http://wiki.bricolabs.net/index.php/WinterCampWebsitePlan]()"
+-   This page was last modified 14:04, 6 March 2009.
+-   This page has been accessed 1,754 times.
+-   [Privacy policy](bricowiki_privacy_policy.html "Bricowiki:Privacy policy")
+-   [About Bricowiki](bricowiki_about.html "Bricowiki:About")
+-   [Disclaimers](bricowiki_general_disclaimer.html "Bricowiki:General disclaimer")
+
+
+
